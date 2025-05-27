@@ -24,7 +24,7 @@ Este é meu portfólio pessoal desenvolvido com Next.js, React e Tailwind CSS. O
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/portfolio-ivan.git
+git clone https://github.com/ivandacruz/portfolio_ivan.git
 ```
 
 2. Instale as dependências:
@@ -60,6 +60,11 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📧 Contato
 
-- Email: ivancruz.idc@gmail.com
-- LinkedIn: [seu-linkedin](https://linkedin.com/in/ivan-da-cruz-787290134)
-- GitHub: [seu-github](https://github.com/ivandacruz)
+- Email: ivandacruz.dev@gmail.com
+- LinkedIn: [Ivan da Cruz](https://www.linkedin.com/in/ivandacruz/)
+- GitHub: [ivandacruz](https://github.com/ivandacruz)
+- WhatsApp: [Contato via WhatsApp](https://wa.me/5511999999999)
+
+## 🌐 Site Online
+
+O site está disponível em: [https://portfolio-ivan.vercel.app](https://portfolio-ivan.vercel.app)
