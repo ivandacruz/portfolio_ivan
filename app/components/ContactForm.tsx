@@ -29,8 +29,8 @@ export default function ContactForm() {
 
       setStatus('success')
       setFormData({ name: '', email: '', message: '' })
-    } catch (err) {
-      console.error('Erro ao enviar formulário:', err)
+    } catch {
+      console.error('Erro ao enviar formulário')
       setStatus('error')
     }
   }
