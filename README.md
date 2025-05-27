@@ -60,6 +60,6 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📧 Contato
 
-- Email: seu-email@exemplo.com
+- Email: ivancruz.idc@gmail.com
 - LinkedIn: [seu-linkedin](https://linkedin.com/in/ivan-da-cruz-787290134)
 - GitHub: [seu-github](https://github.com/ivandacruz)
