@@ -2,10 +2,9 @@
 
 import { useState } from 'react'
 import Link from 'next/link'
+import Image from 'next/image'
 
 export default function Projects() {
-  const [selectedProject, setSelectedProject] = useState<number | null>(null)
-
   const projects = [
     {
       id: 1,
@@ -85,10 +84,11 @@ export default function Projects() {
               className="bg-white dark:bg-gray-800 rounded-xl shadow-lg overflow-hidden hover:shadow-xl transition-shadow"
             >
               <div className="relative h-48">
-                <img
+                <Image
                   src={project.image}
                   alt={project.title}
-                  className="w-full h-full object-cover"
+                  fill
+                  className="object-cover"
                 />
               </div>
               <div className="p-6">
